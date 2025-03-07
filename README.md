@@ -1,4 +1,3 @@
-# EyE-Movement-Extraction-Pipeline-using-EEGLAB-
 # EyE Movement Extraction Pipeline
 
 ## Overview
